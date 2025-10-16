@@ -5,7 +5,7 @@
 
 ### Project Overview  
 Comic Cart is a vending-machine for comics built purely with logic (gates, flip-flops, counters, etc.).  
-Select comics, track stock, compute total, and get genre recommendations — all without software.
+✨Select comics, track stock, compute total, and get genre recommendations — all without software.✨
 
 ### Team  
 - Khadiza Sultana (230042135)  
@@ -15,5 +15,5 @@ Select comics, track stock, compute total, and get genre recommendations — all
 - Procheta Silvie (230042114)  
 - Adiba Ahsan (230042161)  
 
-### Video Demo  
+### Video Demo  🎥
 [▶ Watch Demo](https://www.youtube.com/watch?v=wQ3q-m7FfVY)
