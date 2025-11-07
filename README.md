@@ -11,7 +11,7 @@ Comic Cart is a vending-machine for comics built purely with logic (gates, flip-
 - [Khadiza Sultana (230042135)](https://github.com/tayma-06)  
 - [Safia Aman Anika (230042120)](https://github.com/SafiaAmanAnika)  
 - [Aksan Anan Ria (230042154)](https://github.com/aksanX)  
-- Saika Sarara (230042159)  
+- [Saika Sarara (230042159)](https://github.com/saikasarara)  
 - Procheta Silvie (230042114)  
 - Adiba Ahsan (230042161)  
 
